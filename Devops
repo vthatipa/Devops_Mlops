@@ -1,0 +1,23 @@
+1. what is devops? 
+   devops is a process of improving the application delivery. 
+   There should not be a manual intervention.
+   It includes automation, quality, continuous testing and monitoring. 
+
+2. why Devops? 
+   few years back to deploy an application sys admin and BRE should work together. 
+   Moreover It is manual process. In order to Improve and automate this whole process poepole started using Devops. 
+   we should always adapt the new tools and technolgies which improves this delivery process. 
+
+hypervisor? 
+bare metal? 
+openstack? 
+server admin ?
+system admin? 
+BRE build release engineer? 
+code repositories? 
+application servers?
+
+software developement life cycle? sdlc
+it is a process used in software industries to design, develop, test to provide high quality delivery. 
+agile? 
+waterfall? 
